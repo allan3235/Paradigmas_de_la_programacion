@@ -4,3 +4,12 @@ public/
 build/
 library.txt
 members.txt
+
+__pycache__/
+*.pyc
+
+
+.stack-work/
+
+*.log
+*.tmp
